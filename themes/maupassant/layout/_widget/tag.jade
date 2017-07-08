@@ -1,0 +1,9 @@
+.widget
+  .widget-title
+    i(class='fa fa-star-o')= ' ' + __('tags')
+  .tagcloud
+    != tagcloud({min_font: 15, max_font: 15, amount: 100, orderby: 'count'})
+
+    - for (var i in theme.tag)
+        ul
+        a(href='#{theme.tag[i].url}' title='#{theme.tag[i].title}' target='_blank') #{theme.tag[i].title}

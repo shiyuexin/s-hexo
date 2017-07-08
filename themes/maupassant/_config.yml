@@ -1,0 +1,65 @@
+fancybox: true ## If you want to use fancybox please set the value to true.
+duoshuo: xonepage ## Your duoshuo_shortname, e.g. username
+disqus: ## Your disqus_shortname, e.g. username
+google_search: ## Use Google search, true/false.
+baidu_search: ## Use Baidu search, true/false.
+swiftype: ## Your swiftype_key, e.g. m7b11ZrsT8Me7gzApciT
+tinysou: ## Your tinysou_key, e.g. 4ac092ad8d749fdc6293
+self_search: true ## Use a jQuery-based local search engine, true/false.
+google_analytics: ## Your Google Analytics tracking id, e.g. UA-42425684-2
+baidu_analytics: ## Your Baidu Analytics tracking id, e.g. 8006843039519956000
+show_category_count: true ## If you want to show the count of categories in the sidebar widget please set the value to true.
+shareto: true ## If you want to use the share button please set the value to true.
+busuanzi: true ## If you want to use Busuanzi page views please set the value to true.
+widgets_on_small_screens: false ## Set to true to enable widgets on small screens.
+
+menu:
+  - page: home
+    directory: .
+    icon: fa-home
+  - page: archive
+    directory: archives/
+    icon: fa-archive
+  - page: about
+    directory: about/
+    icon: fa-user
+  - page: history
+    directory: history/
+    icon: fa-file-text
+
+widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
+  - search
+  - category
+  - tag
+  - recent_posts
+  - recent_comments
+  - links
+tag:
+  - title: MAC
+    url: /2016/11/18/mac-git/
+links:
+  - title: edLad
+    url: https://www.edlad.com/
+  - title: xking
+    url: https://www.xonepage.com/
+  - title: baidu
+    url: https://www.baidu.com/
+
+timeline:
+  - num: 1
+    word: 2013/03-Start
+  - num: 2
+    word: 2013/08-高欣
+  - num: 3
+    word: 2014/11-永泰红磡
+  - num: 4
+    word: 2016/04-叮咚小区
+  - num: 5
+    word: ...
+
+# Static files
+js: js
+css: css
+
+# Theme version
+version: 1.0.0
