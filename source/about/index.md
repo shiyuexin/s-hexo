@@ -4,12 +4,8 @@ date: 2016-09-07 19:04:45
 comments: false
 ---
 
-Nickname: [ski](http://www.xonepage.com)
+Nickname: [syx]
 
-Space: [www.xonepage.com](http://www.xonepage.com)
+Blog: [https://shiyuexin.github.io/](https://shiyuexin.github.io/)
 
-Email: [xingkaihang@aliyun.com](mailto:xingkaihang@aliyun.com)
-
-QQ: 378706477 
-
-Mobile: 
+QQ: 2253826813
