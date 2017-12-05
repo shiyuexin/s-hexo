@@ -10,7 +10,7 @@ description: 关于九宫格抽奖模板
 
 1.这个模板唯一依赖的是jquery-latest.js
 
-
+<!-- more -->
 ### HTML部分
 
 ```

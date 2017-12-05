@@ -13,6 +13,7 @@ description: 微信分享到朋友／朋友圈自定义title，url，
 2.通过config接口注入权限验证配置，所有需要使用JS-SDK的页面必须先注入配置信息，否则将无法调用（同一个url仅需调用一次，对于变化url的SPA的web app可在每次url变化时进行调用）；
 3.通过ready接口处理成功验证。
 
+<!-- more -->
 ### config配置
 
 ```

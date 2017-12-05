@@ -11,6 +11,7 @@ description: 获取当前url参数
 我们在开发过程中有时候就需要用到当前url中的参数，也会把一些参数放在路由中，挂在url上。
 这时候我们就需要想办法获取到url上的参数。这里简单介绍两种获取的方式。
 
+<!-- more -->
 ### 【url中有无#号】
 1.如果url中带有#    ---> window.location.hash
 2.url中不带#号     ---> location.search

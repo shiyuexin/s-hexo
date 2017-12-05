@@ -14,7 +14,7 @@ Vue.js（读音 /vjuː/，类似于 view） 是一套构建用户界面的渐进
 
 详情见: https://cn.vuejs.org/
 
-
+<!-- more -->
 
 ### 依赖环境
 

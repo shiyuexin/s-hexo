@@ -14,7 +14,7 @@ description: 轻量级编辑器 VS Code 新尝试
 webstorm就开始了各种卡，最后能把我的电脑搞崩溃，于是我开始尝试使用新的编辑器。
 弱弱的用了一段时间的sublime，其实也还好了，但是因为要装的插件实在太多~发现了vs code之后，果断摒弃了它。
 
-
+<!-- more -->
 ### 【Visual Studio Code简介】
 
 Microsoft在2015年4月30日Build 开发者大会上正式宣布了 Visual Studio Code 项目：一个运行于 Mac OS X、Windows和 Linux 之上的，针对于编写现代 Web 和云应用的跨平台源代码编辑器。
