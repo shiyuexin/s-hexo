@@ -65,6 +65,9 @@ npm(cnpm) install style-loader --save-dev
 npm(cnpm) install css-loader --save-dev
 npm(cnpm) install file-loader --save-dev
 
+#### 8.vue2+axios+elementUI+嵌套路由
+
+楼楼自己搭建的基础框架，github地址: https://github.com/shiyuexin/vue-template-demo
 
 
 ### 相关资料参考地址
